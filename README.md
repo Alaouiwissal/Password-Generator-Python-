@@ -1,13 +1,10 @@
 # Password-Generator-Python-
 ## Abschlussprojekt zum Kurs „Einführung in die Informatik“ bei Redi-School
-Ein sicheres Passwort ist der erste Schritt um Datenschutz zu gewähren, deshalb habe ich im Rahmen des Trainingsprogramms bei Redi-School die Idee bekommen ein Programm zu entwickeln, das den Nutzer ermöglicht das eigene Passwort zu generieren.
-Zuerst fängt die Geschichte von "Alice and Bob"an um die wichtigkeit eines sicheren Passworts zu zeigen, diese kleine Geschichte kommt als Einführung zum Passwort Generator. Danach kann die Länge und Character wie folgt gewählt werden:
-### Inhalt des Passworts:
-- Easy to say: Das Passwort muss nur aus kleinen Buchstarben bestehen.
-- Easy to read: Das Passwort muss aus kleinen und großen Buchstarben und Zahlen beinhalten.
-- All characters: Das Passwort muss aus kleinen und großen Buchstarben, Zahlen und Symbols haben.
-### Länge:
-- Nach Nutzerwunsch bestimmt.
-- Zwischen 8 und 20
+Ein sicheres Passwort ist der erste Schritt für den persönlichen Datenschutz, deshalb habe ich im Rahmen des Trainingsprogramms bei Redi-School  ein Programm entwickelt, das den Nutzer ermöglicht ein eigenes sicheres Passwort zu generieren.
+Anhand einer Geschichte von "Alice and Bob" wird die Wichtigkeit eines sicheren Passwortes gezeigt, sie ist die Einführung zum Passwort Generator. Danach kann die Länge des Passwortes und die verwendeten Zeichen wie folgt gewählt werden:
+### Bestandteile des Passworts:
+ - Easy to say: Das Passwort muss nur aus kleinen Buchstaben bestehen.
+ - Easy to read: Das Passwort muss aus kleinen und großen Buchstaben und Zahlen bestehen.
+ - All characters: Das Passwort muss aus kleinen und großen Buchstaben, Zahlen und Symbolen bestehen.
 
-#### Um das Prototyp anzuzeigen bitte den folgenden Link anklicken: https://userflows.marvelapp.com/6bf1918
+#### Um das Layout des Prototypen anzuzeigen, bitte den folgenden Link anklicken: https://userflows.marvelapp.com/6bf1918
